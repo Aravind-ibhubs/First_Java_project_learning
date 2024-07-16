@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LearnString",
+            "request": "launch",
+            "mainClass": "com.learnString.LearnString",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "LoopForEach",
             "request": "launch",
             "mainClass": "com.learnLoop.LoopForEach",

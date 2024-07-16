@@ -26,6 +26,7 @@ public class LearnString {
         String str7 = "HELLO";
         Scanner userInput = new Scanner(System.in);
         System.out.println("Please enter the world");
+        String userInput1 = userInput.nextLine();
 
         /*System.out.println(str5.equals(str6));
         //System.out.println(str5.equalsIgnoreCase(str7));
@@ -134,9 +135,39 @@ public class LearnString {
         }
 
         System.out.println(finalRes);
-        */
 
         //count the upper , lower case, number , spl char from given string
+        int cap = 0;
+        int low = 0;
+        int spl = 0;
+        int dig = 0;
+
+        for (int i = 0; i < userInput1.length(); i++) {
+            Character eachLetter = userInput1.charAt(i);
+            
+            if (Character.isDigit(eachLetter)) {
+                dig++;
+            }
+            if (Character.isUpperCase(eachLetter)) {
+                cap++;
+            }
+            if (Character.isLowerCase(eachLetter)) {
+                low++;
+            } 
+            if (!Character.isLetterOrDigit(eachLetter)) {
+                spl++;
+            }
+        }
+
+        System.out.printf("Uppercase : %d \nLowerCase : %d \nNumber : %d \nSpecialCahracter : %d", cap, low,dig,spl);
+        */
+
+        // Find the first repeated char and non repeated char
+
+        var j = 90;
+
+        System.out.println(j);
+
         userInput.close();
     }
 }
