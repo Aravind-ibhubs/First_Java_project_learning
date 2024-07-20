@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnOpps.Test1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnBlock",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnStatic.LearnBlock",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnStatic1",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnStatic.LearnStatic1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnStatic",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnStatic.LearnStatic",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "LearnString",
             "request": "launch",
             "mainClass": "com.learnString.LearnString",
