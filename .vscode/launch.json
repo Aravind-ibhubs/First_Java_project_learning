@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LearnError",
+            "request": "launch",
+            "mainClass": "myPack.learnHandling.LearnError",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "TestingUser",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnOpps.polyMor.TestingUser",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnOpps.abstractLearn.User",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnOpps.encapsulation.Test1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "Test1",
             "request": "launch",
             "mainClass": "learnAdvanced.learnOpps.Test1",
