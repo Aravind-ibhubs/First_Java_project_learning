@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LearnWrite3",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.LearnWrite3",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearningWrite2",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.LearningWrite2",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnWrite1",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.LearnWrite1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearningReading4",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.LearningReading4",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearningReading3",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.LearningReading3",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnReading2",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.LearnReading2",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnReading1",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.LearnReading1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.Test1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "LearnError",
             "request": "launch",
             "mainClass": "myPack.learnHandling.LearnError",
