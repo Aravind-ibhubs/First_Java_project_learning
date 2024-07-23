@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment2",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.assignments.Assignment2",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "myPack.learnFileHandle.assignments.Assignment1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "CustomError",
+            "request": "launch",
+            "mainClass": "myPack.learnHandling.CustomError",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnError1",
+            "request": "launch",
+            "mainClass": "myPack.learnHandling.LearnError1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "LearnWrite3",
             "request": "launch",
             "mainClass": "myPack.learnFileHandle.LearnWrite3",
