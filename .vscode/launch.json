@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LearnLinkedList",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.linkedList1.LearnLinkedList",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnStack",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.lStack.LearnStack",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnArrayList",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.arrayListL.LearnArrayList",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LearnVector",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.vectorL.LearnVector",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "Assignment2",
             "request": "launch",
             "mainClass": "myPack.learnFileHandle.assignments.Assignment2",
