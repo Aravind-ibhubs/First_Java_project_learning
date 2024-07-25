@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LearnHashTable",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnMaps.learnHashTable.LearnHashTable",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.lStack.Assignment1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.linkedList1.Assignment1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.arrayListL.Assignment1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "learnAdvanced.LearnArray.vectorL.Assignment1",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "LearnLinkedList",
             "request": "launch",
             "mainClass": "learnAdvanced.LearnArray.linkedList1.LearnLinkedList",
