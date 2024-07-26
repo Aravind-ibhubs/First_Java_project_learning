@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LPQueue",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnQueue.learnPriorityQueue.LPQueue",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LTMap",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnMaps.learnTreeMap.LTMap",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LLinkedHMap",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnMaps.learnLinkedHashMap.LLinkedHMap",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
+            "name": "LHashMap",
+            "request": "launch",
+            "mainClass": "learnAdvanced.learnMaps.learnHashMap.LHashMap",
+            "projectName": "FirstJava_19ac255f"
+        },
+        {
+            "type": "java",
             "name": "LearnHashTable",
             "request": "launch",
             "mainClass": "learnAdvanced.learnMaps.learnHashTable.LearnHashTable",

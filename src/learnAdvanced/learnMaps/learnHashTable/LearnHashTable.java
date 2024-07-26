@@ -41,7 +41,9 @@ public class LearnHashTable {
         m1.remove(4321);
         // System.out.println(m1);
         m1.remove(4678, "Ram");
-        // System.out.println(m1);
+        // m1.clear();
+        //m1.size();
+        System.out.println(m1.size());
 
         //verification of keys
         //System.out.println(m1.containsKey(4098));
